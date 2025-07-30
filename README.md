@@ -23,7 +23,13 @@ pipeline {
     }
 }
 
+
+
 It ask the user where to fetch code:
+
+
+
+
 <img width="647" height="170" alt="image" src="https://github.com/user-attachments/assets/aa032068-3fee-4ea0-85aa-8c6ee990cd9d" />
 
     
